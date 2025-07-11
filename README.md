@@ -1,3 +1,4 @@
+
 ### ✅ 1. **Car klassini yozing**
 
 🚗 `Car` nomli class yozing. Quyidagi atributlarni o‘z ichiga olishi kerak:
@@ -252,7 +253,7 @@ Endi sening talabing bo‘yicha `12-task`dan boshlab **obyektlar bilan ishlashga
 ### ✅ **Task 13 – Library kitoblari ro‘yxati**
 
 `Book` nomli class yozing.
-
+ 
 **Atributlar:**
 
 * `title`
